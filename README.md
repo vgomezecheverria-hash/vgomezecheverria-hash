@@ -2,7 +2,7 @@
 <!-- HEADER -->
 
 <p align="center">
-  <strong>Systems Engineering Student | Developer at Cooweb</strong>
+  <strong>Systems Engineering Student | Desarrolladora at Cooweb</strong>
 </p>
 
 <p align="center">
