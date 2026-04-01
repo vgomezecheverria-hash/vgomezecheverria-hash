@@ -64,15 +64,6 @@ I explore AI, UI/UX and hardware, always driven by curiosity and the desire to c
 
 ---
 
-<!-- STATS -->
-<h2 align="center">📊 GitHub Stats</h2>
-
-
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TUUSUARIO&theme=tokyonight">
-</p>
-
 ---
 
 <!-- EXTRA -->
