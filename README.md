@@ -28,14 +28,7 @@ I explore AI, UI/UX and hardware, always driven by curiosity and the desire to c
 ---
 
 <!-- SKILLS -->
-<h2 align="center">🛠️ Tech Stack</h2>
 
-<p align="center">
-💻 HTML · CSS · JavaScript <br>
-🐍 Python <br>
-⚙️ Git · GitHub <br>
-📊 Data Science (learning) <br>
-🤖 AI & Machine Learning (exploring)
   <h2 align="center">🛠️ Technologies</h2>
 
 <p align="center">
@@ -45,7 +38,7 @@ I explore AI, UI/UX and hardware, always driven by curiosity and the desire to c
   <img src="https://img.shields.io/badge/JavaScript-8A2BE2?style=for-the-badge&logo=javascript&logoColor=white">
   <img src="https://img.shields.io/badge/HTML-8A2BE2?style=for-the-badge&logo=html5&logoColor=white">
 </p>
-</p>
+
 
 ---
 
