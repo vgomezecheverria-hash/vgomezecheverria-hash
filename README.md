@@ -1,6 +1,5 @@
 <img width="1535" height="300" alt="image" src="https://github.com/user-attachments/assets/6e36b556-2e15-462a-a039-c42254c571f5" />
 <!-- HEADER -->
-<h1 align="center">💜 Valerie Gómez</h1>
 
 <p align="center">
   <strong>Systems Engineering Student | Developer at Cooweb</strong>
@@ -37,6 +36,15 @@ I explore AI, UI/UX and hardware, always driven by curiosity and the desire to c
 ⚙️ Git · GitHub <br>
 📊 Data Science (learning) <br>
 🤖 AI & Machine Learning (exploring)
+  <h2 align="center">🛠️ Technologies</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-8A2BE2?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-8A2BE2?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Excel-8A2BE2?style=for-the-badge&logo=microsoft-excel&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-8A2BE2?style=for-the-badge&logo=javascript&logoColor=white">
+  <img src="https://img.shields.io/badge/HTML-8A2BE2?style=for-the-badge&logo=html5&logoColor=white">
+</p>
 </p>
 
 ---
@@ -90,7 +98,7 @@ That’s how I learn faster 🚀
 <h2 align="center">📫 Connect with me</h2>
 
 <p align="center">
-💼 LinkedIn: (tu link) <br>
+💼 Correo: vgomezecheverria@gmail.com <br>
 💻 GitHub: https://github.com/TUUSUARIO
 </p>
 
